@@ -463,7 +463,7 @@ get_header(); ?>
                                 rel="noreferrer noopener">
                                     Mais conteúdos 
                                 </a>
-                                <?php echo var_dump($counta)?>
+                                
                             </div> 
                         </div>
                     </div>
